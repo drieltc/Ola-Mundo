@@ -3,9 +3,9 @@
 
  Repositório criado no dia de hoje, na data de exatamente agora
 
- Quando eu dou o comando para **commit**, meu git será atualizado
+ Quando eu dou o comando para **commit**, meu git será atualizado. Quando for fazer o commit, basta digitar o nome e clicar em 'CTRL + Enter' 
  
- Quando eu dou o comando de **push**, o conteúdo que estava no git será mandado para o GitHub
+ Quando eu dou o comando de **push**, o conteúdo que estava no git será mandado para o GitHub. Quando for fazer o push basta clicar em 'CTRL + P'
  
  Isso aqui eu coloquei diretamente do site muito massa, só clicar em editar
 
